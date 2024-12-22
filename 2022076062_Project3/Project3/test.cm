@@ -1,0 +1,19 @@
+int aaa(int r, int rr, int rrr){
+  int s;
+  if(s > 3){
+    output(s);
+  }
+  while(r < rr){
+    output(rrr);
+  }
+  return input();
+}
+
+int main(void){
+  int x;
+  int y[5];
+  z = x + y[1];
+  x = y[1] + y[2];
+  x = aaa(x, x+1, x+2);
+  return 0;
+}

@@ -1,0 +1,13 @@
+int main(void)
+{
+int x;
+int xx;
+int t[3];
+void k;
+x[3] = xx[2];
+x = xx;
+t[2] = x;
+k = k + 3;
+z = z + z;
+return 0;
+}
