@@ -1,0 +1,16 @@
+/* test.3.txt*/
+int a; int a[1];
+void b; void b[3];
+int c(int a, void b){}
+void c(int a[], void b[]){
+  int p;
+  void q;
+  return;
+  if (a>b); 
+  if (b>c) return d(3,4); 
+  else return 3;
+  if (c>d) return e(i,j,k);
+  if (d>3) return;
+  else x = 3;
+}
+
